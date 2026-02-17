@@ -1,0 +1,12 @@
+# Ignore dataset
+EMNIST_data/
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
+
+# PyTorch models
+*.pt
+*.pth
+
+# Python cache
+__pycache__/
